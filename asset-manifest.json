@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FCC3-BuildDrum/static/css/main.cf6ca50d.chunk.css",
+    "main.js": "/FCC3-BuildDrum/static/js/main.b8b16a19.chunk.js",
+    "main.js.map": "/FCC3-BuildDrum/static/js/main.b8b16a19.chunk.js.map",
+    "runtime-main.js": "/FCC3-BuildDrum/static/js/runtime-main.94727d26.js",
+    "runtime-main.js.map": "/FCC3-BuildDrum/static/js/runtime-main.94727d26.js.map",
+    "static/js/2.c2687726.chunk.js": "/FCC3-BuildDrum/static/js/2.c2687726.chunk.js",
+    "static/js/2.c2687726.chunk.js.map": "/FCC3-BuildDrum/static/js/2.c2687726.chunk.js.map",
+    "index.html": "/FCC3-BuildDrum/index.html",
+    "precache-manifest.0ea792ca1c77db295cde9333e91f9458.js": "/FCC3-BuildDrum/precache-manifest.0ea792ca1c77db295cde9333e91f9458.js",
+    "service-worker.js": "/FCC3-BuildDrum/service-worker.js",
+    "static/css/main.cf6ca50d.chunk.css.map": "/FCC3-BuildDrum/static/css/main.cf6ca50d.chunk.css.map",
+    "static/js/2.c2687726.chunk.js.LICENSE.txt": "/FCC3-BuildDrum/static/js/2.c2687726.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94727d26.js",
+    "static/js/2.c2687726.chunk.js",
+    "static/css/main.cf6ca50d.chunk.css",
+    "static/js/main.b8b16a19.chunk.js"
+  ]
+}
