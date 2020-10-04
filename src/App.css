@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Rock+Salt&display=swap");
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+    background-color: #ffa931;
+    color:white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.App{
+  height:100vh;
+  display: flex;
+}
+
+h1{
+  margin:50px;
+  font-size: 2.5rem;
+  font-family: 'Rock Salt', cursive;
+}
+
+#drum-machine{
+  text-align:center;
+  margin: auto;
+}
+
+#display{
+  background-color:#e39000;
+  width:250px;
+  height: 50px;
+  margin:auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#drum-pad-container{
+  width:250px;
+  display:grid;
+  grid-template-columns: 1fr 1fr 1fr; 
+  column-gap:20px;
+  margin: auto;
+  margin-top:50px;
+}
+
+.drum-pad{
+  text-align: center;
+  width:100%;
+  border:solid 2px #e39000;
+  border-radius: 40px;
+  padding:15px;
+  margin:5px;
+  font-size:1.5rem;
+}
+
+.drum-pad:active , .active{
+  background-color: #e39000;
+}
+
+@media (max-width:768.5px){
+  h1{
+    font-size:2rem;
+    margin-top:10px;
+  }
+}
